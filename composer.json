@@ -1,0 +1,19 @@
+{
+    "name": "ailtonr/boleto",
+    "description": "Boleto PHP",
+    "type": "library",
+    "require": {
+        "itbz/fpdf": "^1.7",
+        "mpdf/mpdf": "^8.2",
+        "twig/twig": "^3.14",
+        "picqer/php-barcode-generator": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ailtonr",
+            "email": "ailtonhd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
